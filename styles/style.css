@@ -117,7 +117,7 @@
 .showcase_container_left {
   background-color: antiquewhite;
   width: 100%;
-  color: showcase_container_left lime;
+  color: black;
   line-height: 1.2;
 }
 @media screen and (max-width: 768px) {
