@@ -1,4 +1,3 @@
-# udemigFarm
-<h1>udemigFarm<h1>
+<h1>UdemigFarm</h1>
 
-<img src="/images/udemigFarm.gif"/>
+<img src="./images/udemigFarm.gif">
